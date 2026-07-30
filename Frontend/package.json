@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Grassroots CRM admin portal — plain HTML/CSS/JS, no build step",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
