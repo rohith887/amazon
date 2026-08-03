@@ -1,5 +1,0 @@
-# Backend is maintained separately - not part of this repo
-Backend/
-
-node_modules/
-*.log
